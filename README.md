@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="Assets/Logo.png" alt="RentLok Logo" width="130"/>
-</p>
+
+<table align="center">
+  <tr>
+    <td><img src="Assets/RS.JPG" width="400"></td>
+  </tr>
+</table>
 
 # 🔍 RentLok Insights: OLAP Analytics (v1.0)📈
 
